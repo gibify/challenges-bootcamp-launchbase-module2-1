@@ -11,7 +11,7 @@
 - **Node.js**;
 - **Express**;
 - **Nodemon**;
-- **Npm**.
+- **Npm**;
 - **Nunjucks**.
 
 
